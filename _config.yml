@@ -1,17 +1,16 @@
 # Site settings
-title: Hanuman
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+title: OneWeek
+description: 안녕하세요 컴퓨터공학과 15학번 김한주의 홈페이지입니다~
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://perky1996.github.io" # the base hostname & protocol for your site
+url: "https://perky1996.github.io/" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
-facebook: facebook
-twitter: twitter
-github:  github
+facebook: perky1834@hanmail.net
+github:  perky1996
 
 #Additional Pages
 about: about
@@ -38,13 +37,13 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: samanyougarg #github username
+username: perky1996 #github username
 repo: hanuman #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
 destination: ../hanuman-pages/ #destination directory
-production_url:  https://samanyougarg.com/
-source_url:  https://github.com/samanyougarg/hanuman #source repository url
+production_url:  https://perky1996.github.io/
+source_url:  https://github.com/perky1996/perky1996.github.io #source repository url
 
 exclude:
   - README.md
